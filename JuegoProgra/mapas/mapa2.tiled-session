@@ -1,0 +1,155 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapa2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/[A]Flower_pipo.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/[A]Grass_pipo.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/[A]WaterFall_pipo.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/[A]Water_pipo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/samplemap.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1196,
+                "y": 1088
+            }
+        },
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/samplemap.tmx#[Base]BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "mapa1.tmx": {
+            "scale": 0.2859895833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.825168457476,
+                "y": 959.8251684574761
+            }
+        },
+        "mapa1.tmx#tilestesteo": {
+            "scaleInDock": 1
+        },
+        "mapa2.lua": {
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 3152,
+                "y": 660
+            }
+        },
+        "mapa2.lua#forest": {
+            "scaleInDock": 1
+        },
+        "mapa2.lua#tile": {
+            "scaleInDock": 0.75
+        },
+        "mapa2.lua#tile2": {
+            "scaleInDock": 1
+        },
+        "mapa2.tmx": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1195,
+                "y": 1409
+            }
+        },
+        "mapa2.tmx#forest": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "mapa2.tmx#piedras": {
+            "scaleInDock": 1
+        },
+        "mapa2.tmx#tile": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa2.tmx#tile2": {
+            "scaleInDock": 1
+        },
+        "mapa2.tmx#water": {
+            "scaleInDock": 1
+        },
+        "mapa2.tmx#water2": {
+            "scaleInDock": 1
+        },
+        "mapa2tmx..tmx": {
+            "scale": 0.37940624999999994,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 802.5698047936744,
+                "y": 802.5698047936744
+            }
+        },
+        "mapa2tmx..tmx#forest": {
+            "scaleInDock": 1
+        },
+        "mapa2tmx..tmx#tile": {
+            "scaleInDock": 1
+        },
+        "mapa2tmx..tmx#tile2": {
+            "scaleInDock": 1
+        },
+        "mapa2tmx.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 551.5151515151515,
+                "y": 733.3333333333334
+            }
+        },
+        "mapa2tmx.tmx#forest": {
+            "scaleInDock": 1
+        },
+        "mapa2tmx.tmx#tile": {
+            "scaleInDock": 0.75
+        },
+        "mapa2tmx.tmx#tile2": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Jorge/OneDrive/Desktop/JuegoProgra/mapas",
+    "last.imagePath": "C:/Users/Jorge/OneDrive/Desktop/JuegoProgra/mapas",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "mapa2.tmx"
+    ],
+    "project": "mapa2.tiled-project",
+    "recentFiles": [
+        "mapa2.tmx",
+        "mapa2tmx..tmx",
+        "C:/Users/Jorge/AppData/Local/Temp/Rar$DIa23136.38444/samplemap.tmx",
+        "mapa1.tmx",
+        "mapa2.lua",
+        "mapa2tmx.tmx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.embedInMap": true,
+    "tileset.margin": 0
+}
